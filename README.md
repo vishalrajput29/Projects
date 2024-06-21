@@ -1,1 +1,2 @@
-# Projects
+# Project 1 - HEART DISEASE
+# Project 2 - EMPLOYEE ATTRITION
